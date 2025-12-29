@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: #00ff00;
+    font-family: monospace;
+}
+
+h1 {
+    color: #00c8e2;
+}
+
+p {
+    align-content: center
+}
